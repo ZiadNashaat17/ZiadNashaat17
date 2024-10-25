@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
-# 💫 About Me:
-🔭 Hello! I'm a software engineer with a passion for AI, machine learning, and software development.<br>🌱 I’m currently learning: Enhancing my Node.js skills by studying Docker and microservices for improved scalability and performance.<br>💬 Ask me about: Node.js Development, Building AI-Powered Applications, Learning Resources.<br>📬 Reach me out: ziadnashaat03@gmail.com<br>
+<!-- # 💫 About Me: -->
+🔭 A software engineer with a passion for AI, machine learning, and software development.<br>🌱 I’m currently learning: Enhancing my Node.js skills by studying Docker and microservices for improved scalability and performance.<br>💬 Ask me about: Node.js Development, Building AI-Powered Applications, Learning Resources.<br>📬 Reach me out: ziadnashaat03@gmail.com<br>
 
 
 ## 🌐 Socials:
