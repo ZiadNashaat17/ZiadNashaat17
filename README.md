@@ -10,7 +10,7 @@
 I'm a backend software engineer specializing in Node.js development and scalable server-side applications. I'm passionate about building robust APIs, optimizing system performance, and exploring modern backend architectures.
 
 - 💼 Currently working as a **Node.js Developer** 
-- 🌱 Learning **Microservices** for scalability
+- 🌱 Learning advanced Node topics like **Microservices**
 - 📫 Reach me at **ziadnashaat03@gmail.com**
 
 <br/>
