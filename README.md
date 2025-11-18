@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Hi 👋, I'm Ziad Nashaat</h1>
-  <h3>Backend Software Engineer | Node.js Developer</h3>
+  <h3>Software Engineer | Node.JS</h3>
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-I'm a backend software engineer specializing in Node.js development and scalable server-side applications. I'm passionate about building robust APIs, optimizing system performance, and exploring modern backend architectures.
+I'm a software engineer specializing in Node.js development and scalable server-side applications. I'm passionate about building robust APIs, optimizing system performance, and exploring modern backend architectures.
 
 - 💼 Working as a **Node.js Developer** 
-- 🌱 Currently learning **Microservices**
+- 🌱 Currently building high-performance APIs and event-driven architectures
 - 📫 Reach me at **ziadnashaat03@gmail.com**
 
 <br/>
@@ -42,9 +42,10 @@ I'm a backend software engineer specializing in Node.js development and scalable
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Data Science & ML
@@ -54,7 +55,7 @@ I'm a backend software engineer specializing in Node.js development and scalable
 
 <br/>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 <div align="center">
