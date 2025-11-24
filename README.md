@@ -36,6 +36,11 @@ I'm a software engineer specializing in Node.js development and scalable server-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+### Message Brokers & Real-time
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub/Sub-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,6 +61,7 @@ I'm a software engineer specializing in Node.js development and scalable server-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 <div align="center">
