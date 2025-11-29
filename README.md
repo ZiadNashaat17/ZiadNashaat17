@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ziad Nashaat</h1>
-  <h3>Software Engineer | Node.JS</h3>
+  <h3>Software Engineer | Node.JS | Microservices</h3>
 </div>
 
 <br/>
@@ -12,6 +12,7 @@ I'm a software engineer specializing in Node.js development and scalable server-
 - 💼 Working as a **Node.js Developer** 
 - 🌱 Currently building high-performance APIs and event-driven architectures
 - 📫 Reach me at **ziadnashaat03@gmail.com**
+<!--- 🏗️ Experienced in **microservices architecture** and distributed systems-->
 
 <br/>
 
@@ -31,6 +32,7 @@ I'm a software engineer specializing in Node.js development and scalable server-
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,7 +62,7 @@ I'm a software engineer specializing in Node.js development and scalable server-
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
 ---
 
