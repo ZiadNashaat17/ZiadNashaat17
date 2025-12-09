@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ziad Nashaat</h1>
-  <h3>Software Engineer | Node.JS | Microservices</h3>
+  <h3>Software Engineer | Node.JS</h3>
 </div>
 
 <br/>
