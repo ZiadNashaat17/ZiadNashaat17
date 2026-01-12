@@ -62,8 +62,8 @@ I'm a software engineer specializing in Node.js development and scalable server-
 
 <br/>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZiadNashaat17&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZiadNashaat17)](https://git.io/streak-stats)-->
 ---
 
 <div align="center">
