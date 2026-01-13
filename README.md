@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer exploring and learning new technologies and expanding my knowledge.<br><br>- 💼 Working as a Node.js Developer<br>- 🌱 Currently focusing on mastering JavaScript and Node.js<br>- 📫 Reach me at ziadnashaat03@gmail.com</p>
+<p align="left">I'm a Software Engineer exploring and learning new technologies and expanding my knowledge.<br><br>- 💼 Working as a Node.js Developer<br>- 🌱 Currently focusing on mastering JavaScript and Node.js<br>- 📫 Reach me at: <a href="mailto:ziadnashaat03@gmail.com">ziadnashaat03@gmail.com</a></p>
 
 ###
 
